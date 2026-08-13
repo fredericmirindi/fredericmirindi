@@ -64,6 +64,24 @@
 
 *Full multidisciplinary record on my Google Scholar profile.*
 
+## Projects with Derrick Mirindi
+
+Selected collaborative research and applied-AI projects co-developed with [Derrick Mirindi](https://github.com/Derrickmirindi):
+
+| Project | Description |
+| :--- | :--- |
+| [XWage](https://github.com/Derrickmirindi/XWage) | AI skills and wage premiums analysis (IEEE IS&AIA 2026) |
+| [africa-grid-infrastructure-map](https://github.com/Derrickmirindi/africa-grid-infrastructure-map) | AfriGrid Atlas: interactive map of Africa's power plants, transmission lines, and electricity prices |
+| [drc-inframap](https://github.com/Derrickmirindi/drc-inframap) | InfraMap DRC: interactive map of the DRC's power infrastructure and national parks |
+| [AI-Brain-Tumor](https://github.com/Derrickmirindi/AI-Brain-Tumor) | YOLO11s segmentation model for brain tumor detection, deployed in-browser via ONNX |
+| [TumorVision](https://github.com/Derrickmirindi/TumorVision) | Tumor detection and visualization system |
+| [YOLO-full-version](https://github.com/Derrickmirindi/YOLO-full-version) | Real-time object detection using YOLO (evolution of the YOLO algorithm) |
+| [YOLO-Version-AI](https://github.com/Derrickmirindi/YOLO-Version-AI) | YOLO-based real-time detection experiments |
+| [waste-sense](https://github.com/Derrickmirindi/waste-sense) | AI-powered waste classification with YOLO (glass, metal, paper, plastic) |
+| [GeoAI](https://github.com/Derrickmirindi/GeoAI) | Geospatial AI project (World Bank Group) |
+| [canadian-banking-dashboard](https://github.com/Derrickmirindi/canadian-banking-dashboard) | Interactive dashboard of Canadian banks and mutual fund platforms |
+
+
 ## Activity & Stats
 
 <div align="center">
