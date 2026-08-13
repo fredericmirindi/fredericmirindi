@@ -28,25 +28,7 @@
 
 ## 🧠 About Me
 
-```python
-class FredericMirindi:
-    def __init__(self):
-        self.role       = "PhD Candidate in Economics"
-        self.university = "University of Manitoba"
-        self.thesis     = "Essays in Decision Theory"
-        self.expected   = 2028
-        self.based_in   = "Winnipeg, Manitoba, Canada"
-        self.languages  = ["English", "French", "Swahili"]
-
-    def interests(self):
-        return ["Decision Theory", "Behavioral Economics",
-                "Artificial Intelligence", "Applied Econometrics"]
-```
-
-<!-- Plain-English summary for non-technical visitors -->
-> **💬 In plain English:** I'm **Frédéric Mirindi**, a **PhD Candidate in Economics** at the **University of Manitoba**, writing a thesis titled *"Essays in Decision Theory"* (expected **2028**). I'm based in **Winnipeg, Canada**, speak **English, French, and Swahili**, and my research focuses on **Decision Theory, Behavioral Economics, Artificial Intelligence, and Applied Econometrics**.
-
-> I apply **econometric and machine-learning methods** to energy economics, finance, development, and computer vision. Sessional Instructor in Microeconomics, Macroeconomics, Mathematics & Business Information Systems.
+> I'm **Frédéric Mirindi**, a **PhD Candidate in Economics** at the **University of Manitoba**, writing a thesis titled *"Essays in Decision Theory"* (expected **2028**). I'm based in **Winnipeg, Canada**, speak **English, French, and Swahili**, and my research focuses on **Decision Theory, Behavioral Economics, Artificial Intelligence, and Applied Econometrics**.
 
 ---
 
@@ -100,7 +82,6 @@ class FredericMirindi:
 
 </div>
 
-<!-- Contribution snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
