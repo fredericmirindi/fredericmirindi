@@ -73,17 +73,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericmirindi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00CCBB" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericmirindi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=fredericmirindi&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=00CCBB&currStreakLabel=7c3aed" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=fredericmirindi&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=00CCBB&currStreakLabel=7c3aed" alt="GitHub streak stats" />
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 ---
@@ -93,9 +88,9 @@
 - [**Advanced YOLO-Based Banknote Detection**](https://ieeexplore.ieee.org/document/11635378/) — [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779), [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498). *[2026 IEEE 3rd International Conference on Computer Vision and Deep Learning (DLCV)](https://ieeexplore.ieee.org/xpl/conhome/11635063/proceeding)*, IEEE, 2026.
 - [**Detection of Personal Protective Equipment on Construction Sites Using Deep Learning Computer Vision**](https://ieeexplore.ieee.org/document/11618587/) — [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498), [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779). *[2026 IEEE/ACIS 24th International Conference on Software Engineering Research, Management and Applications (SERA)](https://ieeexplore.ieee.org/xpl/conhome/11618533/proceeding)*, IEEE, 2026.
 - [**Advance Toward Artificial Superintelligence with OpenAI's O1 Reinforcement Learning and Ethics**](https://ieeexplore.ieee.org/document/11077494/) — [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779), [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [Tajebe Bezabith](https://ieeexplore.ieee.org/author/178382358124993). *[2025 6th International Conference on Artificial Intelligence, Robotics and Control (AIRC)](https://ieeexplore.ieee.org/xpl/conhome/11077444/proceeding)*, IEEE, 2025. *(Cited by 1)*
+- [**An Overview of the Evolution of the YOLO Algorithm**](https://ieeexplore.ieee.org/document/11635741/) — [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779). *[2026 IEEE 3rd International Conference on Computer Vision and Deep Learning (DLCV)](https://ieeexplore.ieee.org/xpl/conhome/11635063/proceeding)*, IEEE, 2026.
 - *The Resource-Access Paradox: Electricity, Inequality, and Rural Exclusion in Africa.* IEEE I&CPS Asia 2026.
 - *Artificial Intelligence Skills and Wage Premiums.* IEEE IS&AIA 2026.
-- [**An Overview of the Evolution of the YOLO Algorithm**](https://ieeexplore.ieee.org/document/11635741/) — [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779). *[2026 IEEE 3rd International Conference on Computer Vision and Deep Learning (DLCV)](https://ieeexplore.ieee.org/xpl/conhome/11635063/proceeding)*, IEEE, 2026.
 
 ---
 
