@@ -43,6 +43,9 @@ class FredericMirindi:
                 "Artificial Intelligence", "Applied Econometrics"]
 ```
 
+<!-- Plain-English summary for non-technical visitors -->
+> **💬 In plain English:** I'm **Frédéric Mirindi**, a **PhD Candidate in Economics** at the **University of Manitoba**, writing a thesis titled *"Essays in Decision Theory"* (expected **2028**). I'm based in **Winnipeg, Canada**, speak **English, French, and Swahili**, and my research focuses on **Decision Theory, Behavioral Economics, Artificial Intelligence, and Applied Econometrics**.
+
 > I apply **econometric and machine-learning methods** to energy economics, finance, development, and computer vision. Sessional Instructor in Microeconomics, Macroeconomics, Mathematics & Business Information Systems.
 
 ---
