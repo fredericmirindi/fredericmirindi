@@ -66,12 +66,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericmirindi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericmirindi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fredericmirindi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fredericmirindi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fredericmirindi&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=fredericmirindi&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+<img src="https://streak-stats.demolab.com/?user=fredericmirindi&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
