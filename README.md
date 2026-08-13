@@ -48,7 +48,7 @@
 - 🇨🇦 **PhD in Economics** — University of Manitoba *(expected 2028)*
 - 🇧🇪 **M.Sc. in Development Evaluation (Economics)** — University of Antwerp, 2019 — *cum laude*
 - 🌍 **AERC MA/PhD Bridge Programme** — African Economic Research Consortium, 2017
-- 🇨🇩 **B.Sc. in Economics** — Université Catholique de Bukavu, 2016 — *summa cum laude*
+- 🇨🇩 **B.Sc. and M.Sc. in Economics** — Université Catholique de Bukavu, 2016 — *summa cum laude*
 
 ---
 
