@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Decision+Theory+%C2%B7+Behavioral+Economics;Artificial+Intelligence+%C2%B7+Applied+Econometrics;Researcher+%7C+Instructor+%7C+PhD+Candidate)](https://fredericmirindi.com)
 
 <img src="https://komarev.com/ghpvc/?username=fredericmirindi&label=Profile%20views&color=2563eb&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/fredericmirindi?label=Followers&style=flat&color=2563eb" alt="followers" />
+<img src="https://img.shields.io/github/stars/fredericmirindi?label=Stars&style=flat&color=00CCBB" alt="stars" />
 
 <a href="https://fredericmirindi.com"><img src="https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" /></a>
@@ -62,14 +64,15 @@
 
 *Full multidisciplinary record on my Google Scholar profile.*
 
-## GitHub Stats
+## Activity & Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fredericmirindi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fredericmirindi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img src="https://img.shields.io/badge/Repositories-9-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
+<img src="https://img.shields.io/github/followers/fredericmirindi?style=for-the-badge&logo=github&label=Followers&color=00CCBB" alt="followers" />
+<img src="https://img.shields.io/badge/Focus-Decision%20Theory%20%26%20AI-8b5cf6?style=for-the-badge" alt="focus" />
 
-<img src="https://streak-stats.demolab.com/?user=fredericmirindi&theme=tokyonight&hide_border=true" alt="streak" />
+[View my repositories &rarr;](https://github.com/fredericmirindi?tab=repositories)
 
 </div>
 
