@@ -1,103 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:00CCBB&height=200&section=header&text=Fr%C3%A9d%C3%A9ric%20Mirindi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=PhD%20Candidate%20in%20Economics%20%C2%B7%20University%20of%20Manitoba&descSize=20&descAlignY=58" width="100%" alt="header" />
+<!-- ===== HERO BANNER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:00CCBB&height=220&section=header&text=Fr%C3%A9d%C3%A9ric%20Mirindi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=PhD%20Candidate%20in%20Economics%20%E2%80%A2%20University%20of%20Manitoba&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Decision+Theory+%C2%B7+Behavioral+Economics;Artificial+Intelligence+%C2%B7+Applied+Econometrics;Researcher+%7C+Instructor+%7C+PhD+Candidate)](https://fredericmirindi.com)
+<!-- ===== TYPING ANIMATION ===== -->
+<a href="https://fredericmirindi.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Decision+Theory+%7C+Behavioral+Economics;Artificial+Intelligence+%7C+Applied+Econometrics;Researcher+%7C+Instructor+%7C+PhD+Candidate;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=fredericmirindi&label=Profile%20views&color=2563eb&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/fredericmirindi?label=Followers&style=flat&color=2563eb" alt="followers" />
-<img src="https://img.shields.io/github/stars/fredericmirindi?label=Stars&style=flat&color=00CCBB" alt="stars" />
+<!-- ===== STATUS BADGES ===== -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=fredericmirindi&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/fredericmirindi?label=Followers&style=for-the-badge&color=2563eb" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Decision%20Theory%20%26%20AI-00CCBB?style=for-the-badge" alt="focus" />
+</p>
 
-<a href="https://fredericmirindi.com"><img src="https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" /></a>
-<a href="https://orcid.org"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-<a href="https://www.researchgate.net"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
-<a href="mailto:frederic.mirindi@umanitoba.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- ===== SOCIAL LINKS ===== -->
+<p>
+  <a href="https://fredericmirindi.com"><img src="https://img.shields.io/badge/Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" /></a>
+  <a href="https://orcid.org"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.researchgate.net"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="mailto:frederic.mirindi@umanitoba.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-## About Me
+## 🧠 About Me
 
-> PhD candidate in Economics at the **University of Manitoba** (expected 2028), with a thesis titled *Essays in Decision Theory*.
+```python
+class FredericMirindi:
+    def __init__(self):
+        self.role       = "PhD Candidate in Economics"
+        self.university = "University of Manitoba"
+        self.thesis     = "Essays in Decision Theory"
+        self.expected   = 2028
+        self.based_in   = "Winnipeg, Manitoba, Canada"
+        self.languages  = ["English", "French", "Swahili"]
 
-- Field paper: *Selective Attention and Addition/Removal Asymmetry in Menu Choice*
-- I apply econometric and machine-learning methods to energy economics, finance, development, and computer vision
-- Sessional Instructor in Microeconomics, Macroeconomics, Mathematics & Business Information Systems
-- Based in Winnipeg, Manitoba, Canada &nbsp;|&nbsp; Languages: English, French, Swahili
+    def interests(self):
+        return ["Decision Theory", "Behavioral Economics",
+                "Artificial Intelligence", "Applied Econometrics"]
+```
 
-## Research Interests
+> I apply **econometric and machine-learning methods** to energy economics, finance, development, and computer vision. Sessional Instructor in Microeconomics, Macroeconomics, Mathematics & Business Information Systems.
+
+---
+
+## 🔬 Research Interests
 
 | Area | Focus |
 | :--- | :--- |
-| **Decision Theory** | Stochastic choice, attention-dependent models, menu choice |
-| **Behavioral Economics** | Selective attention, addition/removal asymmetry |
-| **Artificial Intelligence** | Deep learning, YOLO object detection, forecasting |
-| **Applied Econometrics** | AI-augmented difference-in-differences, energy price forecasting |
+| 🎯 **Decision Theory** | Stochastic choice, attention-dependent models, menu choice |
+| 🧩 **Behavioral Economics** | Selective attention, addition/removal asymmetry |
+| 🤖 **Artificial Intelligence** | Deep learning, object detection (YOLO), medical imaging |
+| 📈 **Applied Econometrics** | Energy prices, wage premiums, forecasting |
 
-## Education
+---
 
-- **PhD in Economics** — University of Manitoba *(expected 2028)*
-- **M.Sc. in Development Evaluation** (Economics) — University of Antwerp, 2019 — *cum laude*
-- **AERC MA/PhD Bridge Programme** — African Economic Research Consortium, 2017
-- **B.Sc. in Economics** — Université Catholique de Bukavu, 2016 — *summa cum laude*
+## 🎓 Education
 
-## Skills & Tools
+- 🇨🇦 **PhD in Economics** — University of Manitoba *(expected 2028)*
+- 🇧🇪 **M.Sc. in Development Evaluation (Economics)** — University of Antwerp, 2019 — *cum laude*
+- 🌍 **AERC MA/PhD Bridge Programme** — African Economic Research Consortium, 2017
+- 🇨🇩 **B.Sc. in Economics** — Université Catholique de Bukavu, 2016 — *summa cum laude*
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Stata-1A5276?style=flat-square&logo=stata&logoColor=white" alt="Stata" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+---
 
-## Selected Publications
+## 🛠️ Skills & Tools
 
-- Mirindi, F., & Mirindi, D. (2026). *Adaptive proof-of-stake governance: A game-theoretic approach to consensus mechanisms.* MARBLE 2025, Springer.
-- Mirindi, F., & Mirindi, D. (2025). *Forecasting energy prices using machine learning algorithms: A comparative analysis.* Springer.
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1a5f9e?style=for-the-badge&logo=stata&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredericmirindi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=00CCBB" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericmirindi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=fredericmirindi&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=00CCBB&currStreakLabel=7c3aed" alt="streak" />
+
+</div>
+
+<!-- Contribution snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+## 📚 Selected Publications
+
+- **Mirindi, F., & Mirindi, D.** (2026). *Adaptive proof-of-stake governance: A game-theoretic approach to consensus mechanisms.* MARBLE 2025, Springer.
+- **Mirindi, F., & Mirindi, D.** (2025). *Forecasting energy prices using machine learning algorithms: A comparative analysis.* Springer.
 - *The Resource-Access Paradox: Electricity, Inequality, and Rural Exclusion in Africa.* IEEE I&CPS Asia 2026.
 - *Artificial Intelligence Skills and Wage Premiums.* IEEE IS&AIA 2026.
 - *An Overview of the Evolution of the YOLO Algorithm.* IEEE DLCV 2026.
 
-*Full multidisciplinary record on my Google Scholar profile.*
+---
 
-## Projects with Derrick Mirindi
-
-Selected collaborative research and applied-AI projects co-developed with [Derrick Mirindi](https://github.com/Derrickmirindi):
-
-| Project | Description |
-| :--- | :--- |
-| [XWage](https://github.com/Derrickmirindi/XWage) | AI skills and wage premiums analysis (IEEE IS&AIA 2026) |
-| [africa-grid-infrastructure-map](https://github.com/Derrickmirindi/africa-grid-infrastructure-map) | AfriGrid Atlas: interactive map of Africa's power plants, transmission lines, and electricity prices |
-| [drc-inframap](https://github.com/Derrickmirindi/drc-inframap) | InfraMap DRC: interactive map of the DRC's power infrastructure and national parks |
-| [AI-Brain-Tumor](https://github.com/Derrickmirindi/AI-Brain-Tumor) | YOLO11s segmentation model for brain tumor detection, deployed in-browser via ONNX |
-| [TumorVision](https://github.com/Derrickmirindi/TumorVision) | Tumor detection and visualization system |
-| [YOLO-full-version](https://github.com/Derrickmirindi/YOLO-full-version) | Real-time object detection using YOLO (evolution of the YOLO algorithm) |
-| [YOLO-Version-AI](https://github.com/Derrickmirindi/YOLO-Version-AI) | YOLO-based real-time detection experiments |
-| [waste-sense](https://github.com/Derrickmirindi/waste-sense) | AI-powered waste classification with YOLO (glass, metal, paper, plastic) |
-| [GeoAI](https://github.com/Derrickmirindi/GeoAI) | Geospatial AI project (World Bank Group) |
-| [canadian-banking-dashboard](https://github.com/Derrickmirindi/canadian-banking-dashboard) | Interactive dashboard of Canadian banks and mutual fund platforms |
-
-
-## Activity & Stats
+## 🤝 Projects with Derrick Mirindi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Repositories-9-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
-<img src="https://img.shields.io/github/followers/fredericmirindi?style=for-the-badge&logo=github&label=Followers&color=00CCBB" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Decision%20Theory%20%26%20AI-8b5cf6?style=for-the-badge" alt="focus" />
-
-[View my repositories &rarr;](https://github.com/fredericmirindi?tab=repositories)
+| Project | Description | Domain |
+| :--- | :--- | :---: |
+| [**XWage**](https://github.com/Derrickmirindi) | AI skills & wage premiums analysis (IEEE IS&AIA 2026) | 📈 Econometrics |
+| [**AfriGrid Atlas**](https://github.com/Derrickmirindi) | Interactive map of Africa's power plants & electricity prices | 🌐 GeoAI |
+| [**InfraMap DRC**](https://github.com/Derrickmirindi) | Map of the DRC's power infrastructure & national parks | 🌐 GeoAI |
+| [**AI-Brain-Tumor**](https://github.com/Derrickmirindi) | YOLO11s segmentation for brain tumor detection (in-browser ONNX) | 🧠 Medical AI |
+| [**TumorVision**](https://github.com/Derrickmirindi) | Tumor detection & visualization system | 🧠 Medical AI |
+| [**YOLO Versions**](https://github.com/Derrickmirindi) | Real-time object detection experiments | 🤖 Computer Vision |
+| [**waste-sense**](https://github.com/Derrickmirindi) | AI waste classification (glass, metal, paper, plastic) | ♻️ Computer Vision |
+| [**GeoAI**](https://github.com/Derrickmirindi) | Geospatial AI project (World Bank Group) | 🌐 GeoAI |
+| [**Canadian Banking Dashboard**](https://github.com/Derrickmirindi) | Dashboard of Canadian banks & mutual fund platforms | 💹 FinTech |
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCBB,100:2563eb&height=120&section=footer&text=Let's%20connect!&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
+### 💡 "Turning data into decisions."
 
-*Decision Theory · Behavioral Economics · Artificial Intelligence*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCBB,50:7c3aed,100:2563eb&height=120&section=footer&text=Let%27s%20connect%20and%20collaborate!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
 
 </div>
