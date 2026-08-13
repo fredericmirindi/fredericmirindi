@@ -95,7 +95,7 @@
 - [**Advance Toward Artificial Superintelligence with OpenAI's O1 Reinforcement Learning and Ethics**](https://ieeexplore.ieee.org/document/11077494/) — [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779), [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [Tajebe Bezabith](https://ieeexplore.ieee.org/author/178382358124993). *[2025 6th International Conference on Artificial Intelligence, Robotics and Control (AIRC)](https://ieeexplore.ieee.org/xpl/conhome/11077444/proceeding)*, IEEE, 2025. *(Cited by 1)*
 - *The Resource-Access Paradox: Electricity, Inequality, and Rural Exclusion in Africa.* IEEE I&CPS Asia 2026.
 - *Artificial Intelligence Skills and Wage Premiums.* IEEE IS&AIA 2026.
-- *An Overview of the Evolution of the YOLO Algorithm.* IEEE DLCV 2026.
+- [**An Overview of the Evolution of the YOLO Algorithm**](https://ieeexplore.ieee.org/document/11635741/) — [Frédéric Mirindi](https://ieeexplore.ieee.org/author/497245784122578), [Derrick Mirindi](https://ieeexplore.ieee.org/author/822922379960498), [David Sinkhonde](https://ieeexplore.ieee.org/author/954626890164779). *[2026 IEEE 3rd International Conference on Computer Vision and Deep Learning (DLCV)](https://ieeexplore.ieee.org/xpl/conhome/11635063/proceeding)*, IEEE, 2026.
 
 ---
 
