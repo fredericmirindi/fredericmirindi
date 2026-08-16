@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== HERO BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:00CCBB&height=220&section=header&text=Fr%C3%A9d%C3%A9ric%20Mirindi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=PhD%20Candidate%20in%20Economics%20%E2%80%A2%20University%20of%20Manitoba&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:00CCBB&height=220&section=header&text=Fr%C3%A9d%C3%A9ric%20Mirindi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=PhD%20Candidate%20in%Economics%20and%20Econometrics%20%E2%80%A2%20University%20of%20Manitoba&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://fredericmirindi.com">
@@ -28,7 +28,7 @@
 
 ## 🧠 About Me
 
-> I'm **Frédéric Mirindi**, a **PhD Candidate in Economics** at the **University of Manitoba**, writing a thesis titled *"Essays in Decision Theory"* (expected **2028**). I'm based in **Winnipeg, Canada**, speak **English, French, and Swahili**, and my research focuses on **Decision Theory, Behavioral Economics, Artificial Intelligence, and Applied Econometrics**.
+> I'm **Frédéric Mirindi**, a **PhD Candidate in Economics and Econometrics** at the **University of Manitoba**, writing a thesis titled *"Essays in Decision Theory"* (expected **2028**). I'm based in **Winnipeg, Canada**, speak **English, French, and Swahili**, and my research focuses on **Decision Theory, Behavioral Economics, Artificial Intelligence, and Applied Econometrics**.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 🎓 Education
 
-- 🇨🇦 **PhD in Economics** — University of Manitoba *(expected 2028)*
+- 🇨🇦 **PhD in Economics and Econometrics** — University of Manitoba *(expected 2028)*
 - 🇧🇪 **M.Sc. in Development Evaluation (Economics)** — University of Antwerp, 2019 — *cum laude*
 - 🌍 **AERC MA/PhD Bridge Programme** — African Economic Research Consortium, 2017
 - 🇨🇩 **B.Sc. and M.Sc. in Economics** — Université Catholique de Bukavu, 2016 — *summa cum laude*
