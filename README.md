@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== HERO BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:00CCBB&height=220&section=header&text=Fr%C3%A9d%C3%A9ric%20Mirindi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=PhD%20Candidate%20in%Economics%20and%20Econometrics%20%E2%80%A2%20University%20of%20Manitoba&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:00CCBB&height=220&section=header&text=Fr%C3%A9d%C3%A9ric%20Mirindi&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=PhD%20Candidate%20in%20Economics%20and%20Econometrics%20%E2%80%A2%20University%20of%20Manitoba&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <a href="https://fredericmirindi.com">
